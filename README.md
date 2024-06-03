@@ -1,5 +1,3 @@
-
-ChatGPT
 To implement the additional functionalities for the social networking API using Django Rest Framework, you can follow these steps:
 
 Install Django and Django Rest Framework:
